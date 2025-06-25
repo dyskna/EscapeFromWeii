@@ -16,7 +16,6 @@ Projekt demonstruje umiejętności w zakresie programowania VR, projektowania im
 
 ---
 
-## English
 
 # Escape Room VR - Faculty of Electrical and Computer Engineering, Rzeszow University of Technology
 
